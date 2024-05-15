@@ -7,7 +7,7 @@
 
 
 
-- 📊 I'm currently deepening my expertise in **Machine Learning** and **Software Engineering**, Although my real expertise lie in penetration testing and ethical hacking. I used a bug hunter!
+- 📊 I'm currently deepening my expertise in **Machine Learning** and **Software Engineering**, Although my real expertise lies in penetration testing and ethical hacking. I used to be a bug hunter!
 
 - 🤝 I'm on the lookout to collaborate with other **Tech Enthusiasts** in the tech space to develop groundbreaking solutions.
 
